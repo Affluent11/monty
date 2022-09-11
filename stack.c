@@ -1,5 +1,5 @@
 /*
- * File: stack.c
+ * File: stack.c.
  * Auth: Bennett Dixon
  *       Brennan D Baraban
  */
